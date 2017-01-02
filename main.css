@@ -3,18 +3,6 @@ header {
   margin-bottom: 40px;
 }
 
-h1 {
-  margin-left: 250px;
-
-}
-
-h3 {
-  margin-left: 250px;
-  font-weight: 100;
-  margin-top: -20px;
-
-}
-
 .boxtop {
   width: 300px;
   height: 400px;
@@ -22,8 +10,8 @@ h3 {
 
 }
 
-img {
-  width: 299px;
+.imgs {
+  width: 100%;
 }
 
 .name {
@@ -37,8 +25,8 @@ img {
 }
 
 .boxtop1 {
-  width: 300px;
-  height: 400px;
+
   border: 1px solid #DDDDDD;
-  margin-left: 245px;
+  margin-bottom: 20px;
+
 }
